@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sudheerm18
+- 👋 Hi, I'm SUDHEER
 - 👀 I’m interested in Data Analyst or Data Science
 - 🌱 I’m currently learning Data science Machine Learning
 - 💞️ I’m looking to collaborate on AL&ML
