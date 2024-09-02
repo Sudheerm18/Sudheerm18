@@ -1,5 +1,5 @@
 - 👋 Hi, I'm SUDHEER
-- 👀 I’m interested in Data Analyst or Data Science
+- 👀 I’m interested in Data Analytics or Data Science
 - 🌱 I’m currently learning Data science Machine Learning
 - 💞️ I’m looking to collaborate on AL&ML
 - 📫 How to reach me www.linkedin.com/sudheermaadugula
